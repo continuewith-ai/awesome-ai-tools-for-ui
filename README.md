@@ -16,7 +16,7 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Tool Count](https://img.shields.io/badge/Tool%20count-24-10b981?style=classic)
+![Tool Count](https://img.shields.io/badge/Tool%20count-35-10b981?style=classic)
 [![Last Update](https://img.shields.io/github/last-commit/maxbogo/awesome-ai-tools-for-ui?label=Last%20update&style=classic)](https://github.com/maxbogo/awesome-ai-tools-for-ui)
 
 </div>
@@ -31,7 +31,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 
 - [Skills](#skills)
 - [Apps](#apps)
-- [MCP Servers](#mcp-servers)
+- [MCP Servers & Plugins](#mcp-servers--plugins)
 - [Design Tools](#design-tools)
 - [Resources](#resources)
 
@@ -51,7 +51,10 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Designer Skills Collection](https://github.com/Owl-Listener/designer-skills?utm_source=awesome-ai-tools-for-ui) - Pack of skills and commands — from research to systems, UI, interaction, and delivery.
 - [TypeUI Design Skills](https://www.typeui.sh/design-skills?utm_source=awesome-ai-tools-for-ui) - Collection of UI designs with downloadable `skill.md` files.
 - [YC Web Design Strategy Skill](https://github.com/maxbogo/yc-web-design-strategy-skill?utm_source=awesome-ai-tools-for-ui) - Web design and strategy principles from YC's Design Review series, packaged as a skill.
-- ⭐️ [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md/?utm_source=awesome-ai-tools-for-ui) - Not a skill but a curated collection of DESIGN.md files inspired by developer focused websites
+- ⭐️ [Swiss Design System](https://swiss.ziki.boo/?utm_source=awesome-ai-tools-for-ui) - Teaches AI agents Swiss design principles through grotesque typography, disciplined grids, restrained color, and Tailwind patterns.
+- [Bencium Marketplace](https://github.com/bencium/bencium-marketplace?utm_source=awesome-ai-tools-for-ui) - Claude Code plugin marketplace with skills for design, architecture, productivity, typography, and code review.
+- [Three.js Skills](https://github.com/CloudAI-X/threejs-skills?utm_source=awesome-ai-tools-for-ui) - Collection of Three.js skills covering scenes, geometry, lighting, shaders, loaders, animation, and interaction.
+- [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md/?utm_source=awesome-ai-tools-for-ui) - Curated collection of DESIGN.md files inspired by developer-focused websites.
 
 ## Apps
 
@@ -64,14 +67,19 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Stitch by Google](https://stitch.withgoogle.com/?utm_source=awesome-ai-tools-for-ui) - Google's AI design tool for creating UIs from prompts.
 - [Khroma](https://www.khroma.co/?utm_source=awesome-ai-tools-for-ui) - Learns your color preferences and generates palettes you can search and save.
 - [Noyzzi](https://noyzzi.com/?utm_source=awesome-ai-tools-for-ui) - Growing collection of interactive designs with prompts you can copy and adapt.
+- [Design Resources for AI Agents](https://styles.refero.design/ai-agents/design-resources?utm_source=awesome-ai-tools-for-ui) - Curated directory of DESIGN.md resources and design references for AI agents.
+- [prompt-kit](https://www.prompt-kit.com/?utm_source=awesome-ai-tools-for-ui) - Accessible, customizable component primitives for AI interfaces, including prompt inputs, messages, reasoning, and tool views.
 
 
-## MCP Servers
+## MCP Servers & Plugins
 
-> Model Context Protocol servers that add UI generation capabilities to AI editors.
+> Model Context Protocol servers and plugins that add UI research and design workflows to AI editors.
 
 - [Magic MCP](https://github.com/21st-dev/magic-mcp?utm_source=awesome-ai-tools-for-ui) - Generate UI components from text prompts inside Cursor, Windsurf, and VSCode.
 - [UI Layouts MCP](https://www.ui-layouts.com/mcp?utm_source=awesome-ai-tools-for-ui) - Lets AI editors search and use real UI components instead of guessing the code.
+- [Lazyweb](https://www.lazyweb.com/?utm_source=awesome-ai-tools-for-ui) - MCP server and skills that help agents research real app screens before designing UI.
+- [Design and Refine](https://github.com/0xdesign/design-plugin?utm_source=awesome-ai-tools-for-ui) - Claude Code plugin for generating, comparing, and refining multiple UI variations in your codebase.
+- [Interface Design](https://github.com/Dammyjay93/interface-design?utm_source=awesome-ai-tools-for-ui) - Claude Code plugin for remembering interface decisions across sessions and keeping UI systems consistent.
 
 ## Design Tools
 
@@ -81,6 +89,8 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [SVG Loaders](https://magecdn.com/tools/svg-loaders?utm_source=awesome-ai-tools-for-ui) - 100+ open-source animated SVG loading spinners (MIT).
 - [SVG Backgrounds](https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/?utm_source=awesome-ai-tools-for-ui) - Free SVG backgrounds and patterns you can customize.
 - [Realtime Colors](https://www.realtimecolors.com/?utm_source=awesome-ai-tools-for-ui) - Preview color palettes and typography on a live website mockup.
+- [Transitions.dev](https://transitions.dev/?utm_source=awesome-ai-tools-for-ui) - Copy-and-paste transition patterns for common web app interactions.
+- [Beautiful HTML Templates](https://github.com/zarazhangrui/beautiful-html-templates?utm_source=awesome-ai-tools-for-ui) - Agent-ready library of reusable HTML slide templates for generating polished decks.
 
 ## Resources
 
@@ -89,5 +99,6 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Laws of UX](https://lawsofux.com/?utm_source=awesome-ai-tools-for-ui) - Psychology-backed design principles for better user interfaces.
 - [UserInterface.wiki](https://www.userinterface.wiki/?utm_source=awesome-ai-tools-for-ui) - Wiki covering UI design, animation, motion, and typography fundamentals.
 - [Craftwork](https://craftwork.design/curated/websites/?utm_source=awesome-ai-tools-for-ui) - Curated website designs and premium design resources (UI kits, illustrations, mockups).
+- [Zajno Motion](https://motion.zajno.com/?utm_source=awesome-ai-tools-for-ui) - Interactive collection of motion-heavy web experiences for animation and interaction inspiration.
 - ⭐️ [The Shape of AI](https://www.shapeof.ai/?utm_source=awesome-ai-tools-for-ui) - UX patterns for designing interfaces that use AI.
 - [Delightful frontend](https://developers.openai.com/blog/designing-delightful-frontends-with-gpt-5-4) - Practical techniques for steering AI toward polished frontend designs.
