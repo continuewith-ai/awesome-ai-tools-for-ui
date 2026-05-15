@@ -65,6 +65,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Superdesign](https://app.superdesign.dev/?utm_source=awesome-ai-tools-for-ui) - AI design tool for generating interfaces in the browser.
 - ⭐️ [Variant](https://variant.com/?utm_source=awesome-ai-tools-for-ui) - Scroll through AI-generated design variations for your ideas.
 - [Stitch by Google](https://stitch.withgoogle.com/?utm_source=awesome-ai-tools-for-ui) - Google's AI design tool for creating UIs from prompts.
+- [Open Design](https://github.com/nexu-io/open-design?utm_source=awesome-ai-tools-for-ui) - Local-first, open-source alternative to Claude Design for generating prototypes, slides, images, and videos.
 - [Khroma](https://www.khroma.co/?utm_source=awesome-ai-tools-for-ui) - Learns your color preferences and generates palettes you can search and save.
 - [Noyzzi](https://noyzzi.com/?utm_source=awesome-ai-tools-for-ui) - Growing collection of interactive designs with prompts you can copy and adapt.
 - [Design Resources for AI Agents](https://styles.refero.design/ai-agents/design-resources?utm_source=awesome-ai-tools-for-ui) - Curated directory of DESIGN.md resources and design references for AI agents.
